@@ -1,3 +1,3 @@
 # DSA
 
-- This repo stores all impertant DSA Questions that I faced, while learning DSA.
+- This repo stores all important DSA Questions that I faced, while learning DSA.
